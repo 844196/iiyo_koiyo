@@ -41,7 +41,6 @@ do
     i=${i}${rand}
 
     if $(echo ${i} | grep "${iiyo}$" >/dev/null 2>&1); then
-        echo ''
         break
     fi
 
