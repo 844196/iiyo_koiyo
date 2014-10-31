@@ -1,4 +1,5 @@
 # iiyo_koiyo
+![](https://farm4.staticflickr.com/3949/15669994221_56c7eaec8d_o.png)
 
 ## Description
 擬似乱数を生成・表示し、引数（もしくはパイプ）にマッチするまでループします
